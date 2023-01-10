@@ -2,7 +2,7 @@
 layout: post
 title:  "Terms-2 Starter Kit (for Fasilkom UI stud)"
 author: naznien
-categories: [ College ]
+categories: [ College, Review ]
 tags: [ Tips ]
 image: assets/images/1.jpg
 comments: true
