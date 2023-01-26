@@ -38,5 +38,5 @@ Oh. Gue juga suka banget sama *extras*-nya. Beneran natural dan sesuai gitu oran
 
 Film ini menurut gue memberikan *experience* yang *once in a lifetime* sih, setidaknya untuk gue. Beruntung banget gue bisa sempet nonton di bioskop di tengah-tengah jumlah layarnya yang menurun dengan drastis. Gue sebelumnya sudah pernah nonton film pendek Makbul Mubarak yang berjudul Ruah (menang FFI juga kalo gak salah), dan gue sempat *wondering*, bagaimana kalau Makbul Mubarak diberi kesempatan untuk *direct* film panjang. Pertanyaan gue itu akhirnya terjawab. Makbul Mubarak dan Wregas Bhanuteja mungkin adalah salah dua sutradara yang baru memulai *directing debute* mereka yang akan gue tunggu terus film-film berikutnya. *What a great debute!*
 
-{% include image_caption.html imageurl="/assets/images/auto-3"  title="Scene3" caption="" %}
+{% include image_caption.html imageurl="/assets/images/auto-3.jpg"  title="Scene3" caption="" %}
 
