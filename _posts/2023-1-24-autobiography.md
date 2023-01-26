@@ -2,7 +2,7 @@
 layout: post
 title:  "A Very Intense and Gripping Directing Debute — Autobiography (2022)"
 author: naznien
-categories: [ Book, Review ]
+categories: [ Film, Review ]
 tags: [  ]
 image: assets/images/autobiography.jpeg
 comments: true
